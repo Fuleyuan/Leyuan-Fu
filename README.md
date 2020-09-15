@@ -1,2 +1,2 @@
-# Leyuan-Fu
+# SkillyStudents
 COMP4711 lab 2
